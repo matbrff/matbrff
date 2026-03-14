@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mateusz Bronslaff, i'm 23 yo tech enthusiast interested in **Homelabbing**, **Networking**, and **System Administration**.
+My name is Mateusz Bronslaff, I'm a 23 yo tech enthusiast interested in **Homelabbing**, **Networking**, and **System Administration**.
 
 ### 🛠 My Current Project
 * **Legion NAS:** Repurposing an old Lenovo Legion Y530 into a high-performance NAS using **ZimaOS**.
@@ -14,6 +14,8 @@ My name is Mateusz Bronslaff, i'm 23 yo tech enthusiast interested in **Homelabb
 ### 📬 Connect with me
 * **Email:** [mateusz.bronslaff@gmail.com](mailto:mateusz.bronslaff@gmail.com)
 * **Discord:** `humorysta`
+
+ # :)
 <!--
 **matbrff/matbrff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
